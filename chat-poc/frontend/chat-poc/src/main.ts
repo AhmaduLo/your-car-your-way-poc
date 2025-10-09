@@ -1,10 +1,7 @@
 import 'zone.js';
 import { bootstrapApplication } from '@angular/platform-browser';
-import { AppComponent } from './app/app';
-import { provideRouter } from '@angular/router';
+import { AppComponent } from './app/app.component';
 
 bootstrapApplication(AppComponent, {
-  providers: [
-    provideRouter([])
-  ]
+  providers: []
 }).catch(err => console.error(err));
