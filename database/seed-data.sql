@@ -166,4 +166,4 @@ INSERT INTO document (id, reservation_id, document_type, url, filename) VALUES
 ('ff0e8400-e29b-41d4-a716-446655440004', 
  'cc0e8400-e29b-41d4-a716-446655440002', 
  'INVOICE', 
- 'https://storage
+ 'https://storage.ycyw.com/invoices/YCYW-00002-invoice.pdf', 
